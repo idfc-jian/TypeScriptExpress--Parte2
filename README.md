@@ -18,7 +18,7 @@ This project is a basic example of how to create a web server with [Node.js](htt
 
 ## Installation and execution
 
-1.  Clone the repository to your local machine with the command `git clone https://github.com/idfc-jian/TypeScript-Express.git`.
+1.  Clone the repository to your local machine with the command `git clone https://github.com/idfc-jian/TypeScriptExpress--Parte2.git`.
 2.  Enter the project folder with `cd TypeScript-Express`.
 3.  Install the dependencies with `npm install`.
 4.  Start the server with `npm run dev`.
